@@ -23,8 +23,8 @@
   <a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="js" width="40" height="40"/></a> 
   <a href="https://dart-tutorial.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/></a> 
-  <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/07f9a928f319c546119c752961e94da7af9798fb/8660a/static/82471063091d8dd5c25baba64914d893/5a190/flutter.png" alt="flutter" width="40" height="40"/></a> 
-  <a href="https://firebase.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/firebase-1-logo.png" alt="firebase" width="40" height="40"/></a> 
+  <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/07f9a928f319c546119c752961e94da7af9798fb/8660a/static/82471063091d8dd5c25baba64914d893/5a190/flutter.png" alt="flutter" width="60" height="40"/></a> 
+  <a href="https://firebase.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/firebase-1-logo.png" alt="firebase" width="50" height="40"/></a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=borinmorm21&show_icons=true&locale=en&layout=compact" alt="borinmorm21" /></p>
